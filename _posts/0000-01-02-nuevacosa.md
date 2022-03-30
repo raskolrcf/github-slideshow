@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Esta linea va a ser borrada
-
+Esto es una nueva rama, y estamos probando
 Use the left arrow to go back!
